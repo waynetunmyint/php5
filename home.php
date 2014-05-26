@@ -1,6 +1,6 @@
 <?php
-	function KMG_function()
+	function KMH_function()
 	{
-		
+
 	}
 ?>
